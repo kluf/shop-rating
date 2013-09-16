@@ -1,0 +1,6 @@
+INSERT INTO `commentType`(`name`) VALUES ('Позитивний'),
+										('Негативний'),
+										('Змішані почуття');
+INSERT INTO `operationType`(`name`) VALUES ('Купівля'),
+											('Ремонт'),
+											('Повернення товару');

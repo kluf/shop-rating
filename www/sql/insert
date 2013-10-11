@@ -4,3 +4,6 @@ INSERT INTO `commentType`(`name`) VALUES ('Позитивний'),
 INSERT INTO `operationType`(`name`) VALUES ('Купівля'),
 											('Ремонт'),
 											('Повернення товару');
+INSERT INTO `shops`(`name`,`siteUrl`,`description`) VALUES ('iLife','ilife.if.ua','інтернет-магазин'),
+                                                            ('Tip-top','tiptop.if.ua','інтернет-магазин'),
+                                                            ('Bomba','bomba.co.ua','інтернет-магазин');
